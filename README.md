@@ -1,1 +1,1 @@
-# Netflix.sql_project
+# Netflix Analysis using SQL
