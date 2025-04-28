@@ -1,6 +1,5 @@
 # Netflix Analysis using SQL
 ![Netflix logo](https://github.com/AlfiyaKhan28/Netflix.sql_project/blob/main/NETFLIX.logo.jpg)
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -265,9 +264,10 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## Contact & Contributions
+   If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
 
+## ⭐ Star this repository if you like the project!
 
-## Author - 
-
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
-
+  🔗 LinkedIn: www.linkedin.com/in/alfiya-khan-662b92245
+  📧 Email: alfiyakhan2807@gmail.com
